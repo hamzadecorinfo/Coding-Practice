@@ -1,0 +1,28 @@
+.tre {
+  background-color: blue;
+  color: white;
+  padding: 20px;
+  font-size: 20px;
+};
+
+.mon {
+    color: aquamarine;
+    height: 100px;
+    background-color: rgb(1, 7, 5);
+}
+
+.jin {
+    color: brown;
+}
+
+
+.dark {
+
+    background-color: black;
+    color: white;
+}
+
+.light {
+    background-color: white;
+    color: black;
+}
