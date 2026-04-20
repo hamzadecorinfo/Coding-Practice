@@ -73,9 +73,9 @@ arr.forEach((val)=> {console.log(val ** 2);})
 
 
 
-let arr = ["Muhammad ali", "Tayab", "Hassan", "Hussain"];
+let arr2 = ["Muhammad ali", "Tayab", "Hassan", "Hussain"];
 
-arr.forEach(function myfun(val) {
+arr2.forEach(function myfun(val) {
     console.log(val.toUpperCase());
 })
 
