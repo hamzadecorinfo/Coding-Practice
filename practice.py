@@ -1,5 +1,9 @@
-print ("Hello World")
-print ("Hello Again")
+print ("Bismillah");
+name = "muhammad izan"
+age = 15
+age = 16
+print (age);    
 
-print ("I like typing this.")
-print (555 + 555)
+
+
+print ("ali was a grat man but he fraud me "); 
